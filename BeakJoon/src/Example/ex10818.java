@@ -3,7 +3,7 @@ package Example;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ex10818 {
+public class ex10818 {//최소, 최대
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
