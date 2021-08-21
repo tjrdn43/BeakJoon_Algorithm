@@ -2,7 +2,7 @@ package Example;
 
 import java.util.Scanner;
 
-public class ex2839 {
+public class ex2839 { //설탕배달
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
